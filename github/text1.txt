@@ -1,2 +1,4 @@
  you are an apple in my eyes;
  Git is a free software;
+ 
+ git status
